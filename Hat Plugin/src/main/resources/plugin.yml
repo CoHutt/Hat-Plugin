@@ -1,0 +1,10 @@
+name: Hat
+version: ${project.version}
+main: me.cohutt.hat.Hat
+api-version: 1.16
+authors: [ CoHutt ]
+description: Allows you to take ordinary blocks and make hats out of them
+commands:
+  hat:
+    description: Makes whatever your holding into a wearable Hat
+    usage: /hat
